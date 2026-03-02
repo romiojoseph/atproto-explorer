@@ -1,14 +1,14 @@
 {
-    "name": "Atmosphere Explorer - AT Proto Explorer and Bluesky Insights",
+    "name": "AT Proto Explorer and Bluesky Insights",
     "short_name": "AT Space",
     "description": "Free AT Proto ecosystem explorer — repository browsing, Bluesky analytics, content exports, video downloads, advanced search, and screenshot tools.",
     "start_url": "/atproto-explorer/",
     "display": "standalone",
     "background_color": "#000000",
-    "theme_color": "#006aff",
+    "theme_color": "#2b292d",
     "icons": [
         {
-            "src": "/atproto-explorer/favicon.svg",
+            "src": "/atproto-explorer/icon.svg",
             "sizes": "any",
             "type": "image/svg+xml"
         }
