@@ -8,9 +8,16 @@
     "theme_color": "#2b292d",
     "icons": [
         {
+            "src": "/atproto-explorer/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
             "src": "/atproto-explorer/icon.svg",
             "sizes": "any",
-            "type": "image/svg+xml"
+            "type": "image/svg+xml",
+            "purpose": "maskable"
         }
     ]
 }
